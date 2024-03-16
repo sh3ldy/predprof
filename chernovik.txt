@@ -1,0 +1,21 @@
+chevrolet camaro ss coupe 2d; Цвет: красный; Пробег: 9704.0; Цена: 3039200
+ford ranger supercrew xl pickup; Цвет: черный; Пробег: 1834.0; Цена: 2479200
+chevrolet silverado 1500 ld; Цвет: черный; Пробег: 6897.0; Цена: 2639200
+honda civic si coupe 2d; Цвет: серебро; Пробег: 9954.0; Цена: 2127200
+buick encore gx essence sport; Цвет: белый; Пробег: 21.0; Цена: 2319200
+lexus nx 300 sport utility 4d; Цвет: черный; Пробег: 1722.0; Цена: 2799200
+volvo s60 t6 inscription sedan; Цвет: белый; Пробег: 8141.0; Цена: 2959200
+ford f250 super duty regular cab; Цвет: белый; Пробег: 9313.0; Цена: 3247200
+jeep wrangler unlimited sahara; Цвет: черный; Пробег: 4362.0; Цена: 3519200
+buick encore gx select sport; Цвет: красный; Пробег: 5144.0; Цена: 1807200
+jaguar e-pace p250 se sport; Цвет: черный; Пробег: 8490.0; Цена: 2879200
+volvo s60 t6 r-design sedan 4d; Цвет: белый; Пробег: 7618.0; Цена: 2927200
+infiniti qx60 luxe sport utility; Цвет: черный; Пробег: 5279.0; Цена: 3119200
+acura mdx sh-awd sport utility; Цвет: белый; Пробег: 1237.0; Цена: 3199200
+jeep wrangler sport suv 2d; Цвет: желтый; Пробег: 1423.0; Цена: 2639200
+buick encore gx select sport; Цвет: красный; Пробег: 1113.0; Цена: 2047200
+jaguar e-pace p300 r-dynamic se; Цвет: белый; Пробег: 79.0; Цена: 4239200
+chevrolet malibu; Цвет: черный; Пробег: 1234.0; Цена: 1600000
+mercedes-benz 1929 ssk replica; Цвет: желтый; Пробег: 9999.0; Цена: 440000
+jeep wrangler sport s utility 2d; Цвет: белый; Пробег: 891.0; Цена: 2559200
+nissan rogue sport; Цвет: красный; Пробег: 9975.0; Цена: 2120000

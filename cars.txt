@@ -1,0 +1,196 @@
+﻿price$year$manufacturer$model$odometer$paint_color
+2687200$2014$gmc$sierra 1500 crew cab slt$57923.0$белый
+1807200$2010$chevrolet$silverado 1500$71229.0$синий
+3167200$2020$chevrolet$silverado 1500 crew$19160.0$красный
+2479200$2017$toyota$tundra double cab sr$41124.0$красный
+1200000$2013$ford$f-150 xlt$128000.0$черный
+2239200$2012$gmc$sierra 2500 hd extended cab$68696.0$черный
+2767200$2016$chevrolet$silverado 1500 double$29499.0$серебро
+2800000$2019$toyota$tacoma$43000.0$серый
+2399200$2016$chevrolet$colorado extended cab$17302.0$красный
+3087200$2011$chevrolet$corvette grand sport$30237.0$красный
+2639200$2017$jeep$wrangler unlimited sport$30041.0$серебро
+1967200$2017$chevrolet$silverado 1500 regular$40784.0$белый
+2479200$2016$chevrolet$colorado crew cab z71$34940.0$синий
+2239200$2014$toyota$tacoma access cab pickup$17805.0$красный
+3039200$2016$chevrolet$camaro ss coupe 2d$9704.0$красный
+2687200$2014$toyota$tundra crewmax sr5 pickup$55251.0$красный
+2479200$2019$ford$ranger supercrew xl pickup$1834.0$черный
+2239200$2018$nissan$frontier crew cab pro-4x$37332.0$серебро
+2767200$2018$ford$f150 super cab xl pickup 4d$20856.0$белый
+2447200$2016$toyota$tacoma double cab sr5$30176.0$красный
+2639200$2020$jeep$wrangler sport suv 2d$20581.0$серебро
+1807200$2017$ram$1500 regular cab tradesman$39508.0$белый
+2239200$2020$ford$ranger supercab xl pickup$10688.0$белый
+2527200$2019$cadillac$xt4 sport suv 4d$12102.0$черный
+1592000$2004$ford$f250 super duty$88000.0$синий
+1327200$2016$jeep$renegade sport suv 4d$35835.0$красный
+2159200$2016$ford$f150 regular cab xl pickup$14230.0$черный
+2047200$2015$gmc$sierra 1500 regular cab$35290.0$белый
+1120000$2012$honda$odyssey$95000.0$серебро
+2287200$2018$ram$1500 quad cab express pickup$30047.0$белый
+2079200$2019$ram$1500 classic regular cab$12302.0$белый
+2799200$2018$ford$mustang gt premium$18650.0$черный
+1800000$2001$ford$f450$144700.0$белый
+2639200$2019$chevrolet$silverado 1500 ld$6897.0$черный
+2399200$2014$chevrolet$silverado 1500 double$26129.0$коричневый
+1919200$2016$chevrolet$silverado 1500 regular$41568.0$белый
+1839200$2012$toyota$tacoma access cab pickup$37725.0$белый
+2159200$2014$chevrolet$silverado 1500 crew$63129.0$черный
+2719200$2017$jeep$wrangler unlimited sahara$34152.0$белый
+1200000$2017$dodge$charger rt 4dr sedan$90000.0$серый
+2127200$2020$honda$civic si coupe 2d$9954.0$серебро
+1487200$2018$honda$civic lx sedan 4d$28942.0$белый
+2367200$2017$ford$expedition xlt sport$70760.0$синий
+1807200$2013$ford$f150 super cab xl pickup 4d$14169.0$серебро
+2399200$2012$toyota$tacoma double cab pickup$43182.0$белый
+2079200$2015$lexus$nx 300h sport utility 4d$55783.0$белый
+2639200$2018$jaguar$e-pace p250 s sport$26685.0$белый
+2319200$2020$buick$encore gx essence sport$21.0$белый
+2799200$2020$lexus$nx 300 sport utility 4d$1722.0$черный
+240000$2004$chrysler$town & country$176144.0$серебро
+2959200$2019$volvo$s60 t6 inscription sedan$8141.0$белый
+2287200$2019$volvo$s60 t5 momentum sedan 4d$18531.0$черный
+1599200$2015$infiniti$qx60 3.5 sport utility$96003.0$серебро
+2367200$2017$lincoln$continental select sedan$35320.0$черный
+1647200$2013$acura$mdx sport utility 4d$77087.0$серебро
+1327200$2015$hyundai$sonata sport sedan 4d$26655.0$белый
+2719200$2017$ram$1500 crew cab tradesman$17033.0$синий
+2927200$2019$gmc$sierra 1500 limited double$14222.0$синий
+2367200$2013$gmc$sierra 1500 extended cab slt$37888.0$серебро
+3247200$2019$ford$f250 super duty regular cab$9313.0$белый
+2719200$2018$jeep$wrangler unlimited willys$34636.0$белый
+3519200$2019$jeep$wrangler unlimited sahara$4362.0$черный
+3119200$2017$jeep$wrangler unlimited rubicon$20676.0$красный
+3167200$2018$jeep$wrangler unlimited all new$21893.0$серебро
+760000$2003$chrysler$town & country$30376.0$синий
+2287200$2018$gmc$acadia sle-2 sport utility$20736.0$белый
+1327200$2013$lincoln$mkz sedan 4d$61087.0$красный
+2159200$2015$lexus$nx 200t sport utility 4d$29738.0$красный
+2159200$2016$lexus$nx 200t sport utility 4d$31363.0$белый
+1807200$2020$buick$encore gx select sport$5144.0$красный
+2879200$2018$jaguar$e-pace p250 se sport$8490.0$черный
+1400000$2008$toyota$fj cruiser$201300.0$черный
+480000$2007$mercedes-benz$e320 cdi$124000.0$синий
+2927200$2019$volvo$s60 t6 r-design sedan 4d$7618.0$белый
+2879200$2019$volvo$s60 t6 r-design sedan 4d$15567.0$красный
+2687200$2019$volvo$s60 t6 r-design sedan 4d$10742.0$серебро
+3119200$2020$infiniti$qx60 luxe sport utility$5279.0$черный
+2287200$2018$audi$q5 premium sport utility 4d$31033.0$серебро
+1487200$2018$hyundai$sonata sel sedan 4d$22075.0$белый
+2399200$2018$audi$a6 2.0t premium plus sedan$24996.0$серебро
+3199200$2020$acura$mdx sh-awd sport utility$1237.0$белый
+320000$2006$jeep$grand cherokee laredo$281000.0$черный
+2639200$2019$jeep$wrangler sport suv 2d$1423.0$желтый
+2207200$2012$jeep$wrangler unlimited sport$52172.0$черный
+1487200$2017$toyota$camry le sedan 4d$30223.0$серебро
+2687200$2017$ram$1500 crew cab laramie pickup$45464.0$красный
+3279200$2017$jeep$wrangler unlimited rubicon$30092.0$черный
+2687200$2017$jeep$wrangler unlimited sport$37919.0$черный
+2527200$2017$jeep$wrangler unlimited sport$35391.0$черный
+2479200$2017$jeep$wrangler unlimited sport$43039.0$серебро
+1167200$2012$bmw$1 series 128i coupe 2d$80465.0$черный
+1647200$2018$chrysler$300 limited sedan 4d$71021.0$черный
+1599200$2020$mitsubishi$outlander sport es$11103.0$оранжевый
+879200$2013$nissan$sentra s sedan 4d$81557.0$красный
+2927200$2020$gmc$acadia denali sport utility$33026.0$черный
+2479200$2020$gmc$acadia slt sport utility 4d$35200.0$белый
+1967200$2018$lincoln$mkz select sedan 4d$16081.0$белый
+1919200$2015$lexus$nx 200t sport utility 4d$48462.0$серебро
+2047200$2020$buick$encore gx select sport$1113.0$красный
+4239200$2020$jaguar$e-pace p300 r-dynamic se$79.0$белый
+1520000$2017$subaru$forester$22700.0$красный
+2240000$2018$acura$tlx$55000.0$белый
+1407200$2015$volvo$s60 t5 premier sedan 4d$63512.0$синий
+2927200$2020$volvo$s60 t6 r-design sedan 4d$18506.0$синий
+2879200$2020$volvo$s60 t6 inscription sedan$11878.0$синий
+3087200$2019$volvo$s60 t8 r-design sedan 4d$14054.0$черный
+2367200$2018$lincoln$continental select sedan$33047.0$белый
+2607200$2018$alfa-romeo$romeo stelvio sport suv 4d$14863.0$синий
+2207200$2018$infiniti$qx60 3.5 sport utility$41119.0$синий
+3119200$2020$audi$q5 45 tfsi premium plus$19067.0$белый
+1756000$2012$toyota$tacoma 4x4$143060.0$серебро
+1116000$2011$toyota$tacoma$151060.0$серебро
+1036000$2005$bmw$z4$69586.0$белый
+1516000$2010$ford$f150 lariat supercrew 4x4$151403.0$черный
+559600$2011$volkswagen$jetta sel$172752.0$черный
+1000000$2008$ford$ranger xlt$141345.0$серый
+1356000$2007$toyota$tacoma double cab$156792.0$белый
+1836000$2014$ford$f150 supercrew cab xlt$166380.0$черный
+1036000$2011$honda$crv ex$87994.0$серебро
+1036000$2007$mazda$mx-5 miata touring$90610.0$черный
+1116000$2011$mazda$mx-5 miata grand touring$138235.0$красный
+1596000$2009$porsche$boxster$80190.0$красный
+1116000$2008$mazda$miata$86650.0$серый
+876000$2009$lexus$rx350$191955.0$белый
+144000$1998$toyota$rav4$240537.0$зеленый
+1700000$2002$ford$thunderbird$15996.0$желтый
+360000$2008$ford$mustang$187016.0$красный
+3167200$2020$chevrolet$silverado 1500 crew$19160.0$красный
+2159200$2017$nissan$titan single cab sv$41335.0$красный
+343920$2007$nissan$sentra$189321.0$серебро
+0$2015$nissan$sentra$99505.0$серебро
+472000$1998$ford$f150$214000.0$красный
+1359040$2018$nissan$altima$57517.0$серебро
+2159200$2018$nissan$frontier$31814.0$черный
+1318160$2015$buick$enclave$103969.0$черный
+4718160$2019$gmc$sierra 3500$66368.0$белый
+2479200$2016$chevrolet$silverado 1500 double$58116.0$серебро
+2079200$2016$bmw$5 series$75123.0$черный
+640000$2013$kia$optima$119000.0$белый
+2560000$2008$chevrolet$silverado 2500$109600.0$белый
+271920$2006$buick$lacrosse$160218.0$синий
+320000$2002$toyota$echo$155000.0$синий
+312000$2009$hyundai$elantra$162005.0$белый
+240000$2004$chevrolet$blazer$131500.0$белый
+200000$1995$bmw$525i$110661.0$белый
+2687200$2014$gmc$sierra 1500 crew cab slt$57923.0$белый
+1000000$2008$gmc$yukon xl$177326.0$черный
+1279200$2017$ford$c-max hybrid se wagon 4d$48195.0$синий
+200000$2008$honda$accord$204561.0$серебро
+440000$1978$ford$f-150$239000.0$зеленый
+2239200$2012$gmc$sierra 2500 hd extended cab$68696.0$черный
+648000$2011$ford$escape$140000.0$белый
+1600000$1979$chevrolet$malibu$1234.0$черный
+440000$1974$mercedes-benz$1929 ssk replica$9999.0$желтый
+280000$1996$chevrolet$tahoe$237000.0$черный
+1352160$2020$toyota$corolla$11692.0$черный
+984560$2018$kia$soul$95056.0$красный
+3000000$2018$ford$f-150$30026.0$синий
+2399200$2016$chevrolet$colorado extended cab$17302.0$красный
+2847200$2010$chevrolet$corvette convertible$31879.0$красный
+1000000$2015$volkswagen$passat tdi$101000.0$белый
+2239840$2008$porsche$cayman$69505.0$черный
+0$2015$mercedes-benz$s-class$78807.0$серый
+544000$2004$mercedes-benz$clk320$116700.0$серебро
+3600000$2017$chevrolet$silverado$92000.0$красный
+204000$2004$cadillac$srx$224105.0$белый
+1000000$2015$ford$taurus$90000.0$белый
+638400$2013$bmw$x3$156295.0$белый
+720000$2008$mazda$miata mx-5$56700.0$белый
+478400$2005$cadillac$sts$129448.0$белый
+1080000$2000$chevrolet$corvette$92000.0$черный
+1596000$1955$chevrolet$bel air$96867.0$зеленый
+478400$2005$acura$tl$179721.0$серебро
+214000$1996$toyota$camry$164719.0$зеленый
+478400$2006$nissan$murano$178388.0$белый
+2559200$2017$jeep$wrangler sport s utility 2d$891.0$белый
+558400$2008$toyota$avalon$158888.0$серебро
+920000$2013$honda$odyssey ex$92000.0$серебро
+208000$2000$buick$lesabre$212061.0$синий
+398400$2007$ford$edge$178095.0$белый
+2239200$2014$toyota$tacoma access cab pickup$17805.0$красный
+2639200$2017$jeep$wrangler unlimited sport$30041.0$серебро
+478400$2010$gmc$terrain$208359.0$красный
+438400$2013$chevrolet$captiva sport$182711.0$серый
+318000$2010$chevrolet$cobalt$162455.0$серебро
+1832000$2013$dodge$grand caravan$68228.0$серебро
+1999760$2014$mercedes-benz$m-class$82553.0$синий
+536000$2011$nissan$murano$184000.0$серебро
+2120000$2019$nissan$rogue sport$9975.0$красный
+2239040$2020$nissan$altima$15139.0$синий
+1669600$2019$infiniti$qx30$29938.0$красный
+2159040$2018$nissan$pathfinder$24274.0$белый
+1599200$2017$subaru$legacy 2.5i premium sedan$10309.0$белый
+1590160$2011$ram$2500$183284.0$белый
+958160$2015$gmc$terrain$106591.0$серебро
